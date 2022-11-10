@@ -28,5 +28,3 @@ f = open('hianyzasok.txt','r')
 for i in f:
    sor = i.strip()
 
-print(igazolt('OOOXXI'))
-print(igazolatlan('OOXXIX'))
